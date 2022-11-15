@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning SpringCloud
-- 📫 How to reach me:2054188@tongji.edu.cn
+- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerebellumking)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cerebellumking/cerebellumking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
