@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently preparing for postgraduate entrance examination
+- 🌱 I’m currently looking for internship
 - 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerebellumking&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
